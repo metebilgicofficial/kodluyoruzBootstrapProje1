@@ -28,6 +28,9 @@ p .btn:hover {
     background: darkorange;
     border: none;
 }
+.btn.btn-info{
+    color: rgb(24, 2, 44);
+}
 
 
 
